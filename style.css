@@ -1,0 +1,37 @@
+html {
+  padding:      250px;
+  margin-left:  250px;
+  margin-right: 250px;
+  font-family: Rajdhani;
+}
+
+h1 {
+  color:#ec183f;
+  font-size: 50px;
+  margin-bottom: 0px;
+}
+
+h2 {
+  font-size: 15px;
+  margin-top: 0px;
+}
+
+h3 {
+  font-size: 25px;
+}
+
+footer {
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: lightgrey;
+  padding: 20px;
+  margin-top: 50px;
+}
+
+span {
+  padding: 10px;
+}
+
+p {
+  text-align: justify;
+}
